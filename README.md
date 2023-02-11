@@ -25,4 +25,4 @@ Hello 👋
 <a href = https://www.linkedin.com/in/codewithusama/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='45'></a>
 <a href = https://twitter.com/codewith_usama><img src='https://img.icons8.com/color/2x/twitter.png' alt='Twitter' height='45'></a>
 <a href = https://www.facebook.com/codewusama><img src='https://img.icons8.com/color/2x/facebook.png' alt='Facebook' height='45'></a>
-<a href = https://www.instagram.com/codewith_usama/><img src='![icons8-instagram-48](https://user-images.githubusercontent.com/99090844/218276175-6b5f1a07-029f-4e2b-b7d8-8acd2a587d9c.png)' alt='Instagram' height='45'></a>
+<a href = https://www.instagram.com/codewith_usama/><img src='https://img.icons8.com/color/2x/instagram.png' alt='Instagram' height='45'></a>
