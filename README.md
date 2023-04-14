@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/codewith_usama" target="blank"><img src="https://img.shields.io/twitter/follow/codewith_usama?logo=twitter&style=for-the-badge" alt="codewith_usama" /></a> </p>
 
 
-- 📝 I write articles on [https://dev-codewithusama.pantheonsite.io/](https://dev-codewithusama.pantheonsite.io/)
+- 📝 I write articles on [codewithusama.io](https://dev-codewithusama.pantheonsite.io/)
 
 - 🌱 I’m currently learning **Flutter**
 
