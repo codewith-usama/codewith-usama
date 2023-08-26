@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **epiicuree@gmail.com**
+- 📫 How to reach me **codewusama@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
